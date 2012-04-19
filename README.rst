@@ -26,5 +26,11 @@ Used files:
 ``dff-tool unpack``
 ===================
 
+Used files:
+* ``.dff``
+
 ``dff-tool verify``
 ===================
+
+Used files:
+* ``.dff``
