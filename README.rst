@@ -22,3 +22,9 @@ Used files:
 
 * ``.dff``
 * ``.dffp``
+
+``dff-tool unpack``
+===================
+
+``dff-tool verify``
+===================
