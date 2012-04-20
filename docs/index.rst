@@ -8,6 +8,7 @@ Table Of Contents
 .. toctree::
    :maxdepth: 2
 
+   intro
    formats
 
 Indices and tables
