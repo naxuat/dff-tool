@@ -1,7 +1,9 @@
+====================================
 Welcome to dff-tool's documentation!
 ====================================
 
-Contents:
+Table Of Contents
+=================
 
 .. toctree::
    :maxdepth: 2
