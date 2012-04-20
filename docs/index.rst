@@ -9,6 +9,7 @@ Table Of Contents
    :maxdepth: 2
 
    intro
+   tools
    formats
 
 Indices and tables
